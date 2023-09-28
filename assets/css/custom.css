@@ -1,0 +1,21 @@
+:root {
+  --primary: #cc33cc;
+  --sec: pink;
+  --ter: #cc66cc;
+}
+
+html, body {
+  height: 100%;
+}
+
+.fuente {
+  font-family: 'Mooli', sans-serif;
+}
+
+.colorfondo {
+  background-color: green;
+}
+
+.colortexto {
+  color: var(--sec);
+}
